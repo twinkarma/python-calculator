@@ -1,4 +1,4 @@
-rom pythoncalculator import divide
+from pythoncalculator import divide
 
 
 def test_divide():
